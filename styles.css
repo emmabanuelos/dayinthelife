@@ -1,0 +1,37 @@
+html {
+  height: 100%;
+}
+
+body {
+  background-color: purple;
+  min-height: 100%;
+  margin: 5;
+}
+
+h1 span {
+    border: 4px dashed #20bcd5;
+    padding: 10px;
+}
+
+h2 {
+  border: 4px dashed #20bcd5;
+  padding: 10px;
+}
+
+h3 {
+  border: 4px dotted #20bcd5;
+  padding: 10px;
+}
+h4 {
+  
+}
+p {
+
+}
+
+a {
+
+}
+
+nav {
+}
