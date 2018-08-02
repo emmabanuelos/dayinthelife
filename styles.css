@@ -6,28 +6,39 @@ body {
   background-color: purple;
   min-height: 100%;
   margin: 5;
+    font-family: 'Montserrat', sans-serif;
 }
 
 h1 span {
-    border: 4px dashed #20bcd5;
-    padding: 10px;
-    font-family: 'Do Hyeon', sans-serif;
-}
-
-h2 {
-  border: 4px dashed #20bcd5;
+  border: 4px dotted yellow;
   padding: 10px;
-  font-family: 'Do Hyeon', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  color:black;
+  background-color:green;
+  text-align: center;
+}
+h2 span {
+    border: 4px dotted yellow;
+    padding: 10px;
+    font-family: 'Montserrat', sans-serif;
+    color:black;
+   background-color:green;
 }
 
-h3 {
+h3{
+
+  font-family: 'Oswald', sans-serif;
+  color: #20bcd5;
+
+}
+
+h4 {
   border: 4px dotted #20bcd5;
   padding: 10px;
   font-family: 'Do Hyeon', sans-serif;
 }
-h4 {
 
-}
+
 p {
 
 }
