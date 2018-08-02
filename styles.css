@@ -11,19 +11,22 @@ body {
 h1 span {
     border: 4px dashed #20bcd5;
     padding: 10px;
+    font-family: 'Do Hyeon', sans-serif;
 }
 
 h2 {
   border: 4px dashed #20bcd5;
   padding: 10px;
+  font-family: 'Do Hyeon', sans-serif;
 }
 
 h3 {
   border: 4px dotted #20bcd5;
   padding: 10px;
+  font-family: 'Do Hyeon', sans-serif;
 }
 h4 {
-  
+
 }
 p {
 
