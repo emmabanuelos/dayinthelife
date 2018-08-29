@@ -2,6 +2,35 @@ html {
   height: 100%;
 }
 
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+.topnav a {
+    float: center;
+    color: #a73f00;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+header {
+    position: fixed;
+    background-color: #a73f00;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 1rem;
+    text-align: center;
+}
+
 body {
   background-color: purple;
   min-height: 100%;
